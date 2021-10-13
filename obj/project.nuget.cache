@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "G4bpqQvZxNxLOzUEGAxJN9q9AbRXc5J9XZS1PcmUQcOAbD/TlAKgqAwkactVJb9ZNnbtgf2JwkfjxNox3zHJJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Source\\FallRepos\\LocalDatabaseVideo\\LocalDatabaseVideo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Skwaf\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.115\\stub.system.data.sqlite.core.netstandard.1.0.115.nupkg.sha512",
+    "C:\\Users\\Skwaf\\.nuget\\packages\\system.data.sqlite.core\\1.0.115\\system.data.sqlite.core.1.0.115.nupkg.sha512"
+  ],
+  "logs": []
+}
